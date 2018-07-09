@@ -1,5 +1,6 @@
 <?php
 class Animal {
+    
     public $any_name;
  
     public function __construct($name) {
