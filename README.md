@@ -1,2 +1,2 @@
 # WebbyLab
-Test for  inheritance
+Test for  classes inheritance
