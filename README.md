@@ -1,2 +1,2 @@
-# WebbyLab
-Test for  classes inheritance
+# Test Task
+Three variants for classes inheritance
